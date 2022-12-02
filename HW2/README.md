@@ -6,7 +6,9 @@ email: smaguire@colostate.edu
 
 README
 
-Video showcase:
+Demo: https://youtu.be/0oMtjuFoGo4
+
+Code: https://youtu.be/M94NntM0yYA
 
 Controls (using Oculus set):
 - movement - teleport using R stick
