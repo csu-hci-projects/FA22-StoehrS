@@ -6,9 +6,7 @@ email: smaguire@colostate.edu
 
 README
 
-Running the game
-Video explaining the code
-Video showcasing game
+Video showcase:
 
 Controls (using Oculus set):
 - movement - teleport using R stick
